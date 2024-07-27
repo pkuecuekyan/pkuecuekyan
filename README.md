@@ -2,7 +2,7 @@
 
 - 🔭 I’m a software engineer and designer.
 - 📍 I'm based in California.
-- 👨‍💻 I write a lot of code in Swift, Objective-C and quite a bit in Python, JavaScript, and C++.
+- 👨‍💻 I write a lot of code in Swift and Objective-C and, lately, quite a bit in Python, JavaScript, and C++.
 - 📱 I have worked on apps for Hearst, Con Edison, Aetna, and CBS.
 - 📸 I also take a lot of pictures. [Check 'em out](https://philipp.gallery) if you like.
 
